@@ -22,6 +22,7 @@
     <a href='https://fudan-generative-vision.github.io/champ/#/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
     <a href='https://arxiv.org/abs/2403.14781'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
     <a href='https://youtu.be/2XVsy9tQRAY'><img src='https://badges.aleen42.com/src/youtube.svg'></a>
+    <a href='assets/wechat.jpeg'><img src='https://badges.aleen42.com/src/wechat.svg'></a>
 </div>
 
 https://github.com/fudan-generative-vision/champ/assets/82803297/b4571be6-dfb0-4926-8440-3db229ebd4aa
@@ -32,6 +33,8 @@ https://github.com/fudan-generative-vision/champ/assets/82803297/b4571be6-dfb0-4
 
 # News
 
+- **`2024/04/26`**:  🚁Great Blender Adds-on [CEB Studios
+](https://www.patreon.com/cebstudios/posts) for various SMPL process!
 - **`2024/04/12`**: ✨✨✨SMPL & Rendering scripts released! Champ your dance videos now💃🤸‍♂️🕺. See [docs](https://github.com/fudan-generative-vision/champ/blob/master/docs/data_process.md).
   
 - **`2024/03/30`**: 🚀🚀🚀Amazing [ComfyUI Wrapper](https://github.com/kijai/ComfyUI-champWrapper) by community. Here is the [video tutorial](https://www.youtube.com/watch?app=desktop&v=cbElsTBv2-A). Thanks to [@kijai](https://github.com/kijai)🥳
